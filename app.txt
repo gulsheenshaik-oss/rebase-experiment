@@ -1,2 +1,7 @@
+
 This is the original file.
 Remote developer added this line.
+
+This is the original file .
+Local developer added this line.
+
